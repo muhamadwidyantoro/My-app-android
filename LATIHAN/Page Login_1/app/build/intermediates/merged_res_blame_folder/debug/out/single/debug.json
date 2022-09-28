@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/drawable_gambarsatu.png.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/drawable/gambarsatu.png"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/font_poppinssemibold.ttf.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/font/poppinssemibold.ttf"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/font_poppinsmedium.ttf.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/font/poppinsmedium.ttf"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/drawable_gambardua.png.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/drawable/gambardua.png"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/font_poppinsextra.ttf.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/font/poppinsextra.ttf"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/font_poppinsbold.ttf.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/font/poppinsbold.ttf"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/drawable_shape_button.xml.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/drawable/shape_button.xml"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/font_poppinsregular.ttf.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/font/poppinsregular.ttf"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "id.widy.pagelogin_1.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "id.widy.pagelogin_1.app-main-31:/layout/activity_main.xml"
+    }
+]

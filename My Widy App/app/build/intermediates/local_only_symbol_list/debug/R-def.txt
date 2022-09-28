@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable fb
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ig
+drawable tiktok
+drawable twitter
+drawable widy
+id button
+id imageView
+id imageView2
+id imageView3
+id imageView4
+id imageView5
+id textView
+id textView3
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.MyWidyApp
+xml backup_rules
+xml data_extraction_rules
